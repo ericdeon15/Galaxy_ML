@@ -34,4 +34,4 @@ The data processing pipeline includes the following steps:
 
 ## Other Notes
 
-- The CSV files used in the project are stored as pointers in the repository via **Git LFS**. To view them outside of GitHub, you will need to download them using Git LFS.
+- The CSV files used in the project are stored as pointers in the repository via **Git LFS**. To view them outside of GitHub, you will need to download them using Git LFS for the CSV format or download the raw text files directly on GitHub.
